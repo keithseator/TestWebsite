@@ -1,0 +1,19 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+#header1{
+  color: rgb(10, 22, 15);
+  background: #dbb8b8;
+  /* text-align: center; */
+}
+
+.divider{
+  color: #944213;
+  background: rgb(179, 44, 107);
+}
+
+.navigation{
+  color: green;
+}
