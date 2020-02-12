@@ -17,3 +17,17 @@
 .navigation{
   color: green;
 }
+
+.one{
+float: left;
+border: #944213;
+border-style: solid;
+border-width: 2px;
+}
+
+.two{
+  float: right;
+  border: #273e80;
+  border-style: solid;
+  border-width: 2px;
+}
